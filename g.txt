@@ -1,2 +1,3 @@
-this tis the file g.txt
+this is the file g.txt
 created by geevan
+edited in csbgfiles
